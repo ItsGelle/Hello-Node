@@ -1,0 +1,21 @@
+body {
+  margin: 0 auto;
+}
+
+fieldset#one {
+  margin: 0 auto;
+  text-align: center;
+  width: 70%;
+}
+
+fieldset#two {
+  margin: 0 auto;
+  width: 70%;
+  border-style: inset;
+}
+
+legend {
+  text-align: center;
+  border-style: inset;
+
+}
